@@ -1,0 +1,12 @@
+{
+    "terminal.integrated.shellArgs.linux": [
+    "-l"
+],
+    "files.associations": {
+        "*.c": "c",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "algorithm": "cpp",
+        "ostream": "cpp"
+    }
+}

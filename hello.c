@@ -6,6 +6,6 @@
  * modified time: 25/02/13- 2:02                                    
  *******************************************************************************/
 #include <stdio.h>
-void main() {
+int main() {
 	printf("Hello World!\n");
 }
